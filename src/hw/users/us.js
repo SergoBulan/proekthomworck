@@ -19,6 +19,7 @@ export default function Users(){
         </div>
     )
 }
+// тре доступ до юрлки
 
 //2. Створити компонент який описує персонажа (властивості id,name,status,species,gender,image) з цього апі
 // https://rickandmortyapi.com/
