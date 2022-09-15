@@ -6,7 +6,7 @@ export function Criminal(props){
         <div>
             <h1>{prison.id} - {prison.name}</h1>
             <img src={prison.image} alt={prison.name}/>
-            <p>{prison.status} {prison.species} {prison.gender}</p>
+            <p> -{prison.status} <br/> -{prison.species} <br/> -{prison.gender}</p>
         </div>
     )
 }
