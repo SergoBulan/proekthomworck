@@ -1,5 +1,5 @@
 import './App.css';
-import Users from "./hw/users/us";
+
 import {Hosteges} from "./hw/components/hosts/Hosteges";
 
 function App() {
