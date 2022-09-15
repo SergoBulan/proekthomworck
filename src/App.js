@@ -1,8 +1,14 @@
-// import logo from './logo.svg';
+
 import './App.css';
+import Criminals from "./hw/prise/crims/Criminals";
+
 
 function App() {
-  return (<div></div>
+  return (<div>
+
+        <Criminals/>
+
+      </div>
 
   );
 }
