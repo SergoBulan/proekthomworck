@@ -1,12 +1,13 @@
 import './App.css';
 import Users from "./hw/users/us";
+import {Hosteges} from "./hw/components/hosts/Hosteges";
 
 function App() {
 
 
   return (<div>
           <h2>This is idiots who lost my money</h2>
-          <Users/>
+          <Hosteges/>
 
       </div>
 
